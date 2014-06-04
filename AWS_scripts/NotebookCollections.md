@@ -8,6 +8,9 @@ homework 1
 #### __[hw2]__ UCSD_BigData/homework/hw2/
 homeworke 2
 
+#### __[HW2]__ UCSD_BigData/notebooks/HW2/
+Graded HW2 notebooks (in progress)
+
 #### __[streaming]__  UCSD_BigData/notebooks/streaming/
 Streaming and statistical estimation algorithms
 
